@@ -1,4 +1,5 @@
-# OnlineShoppingStore2
+# OnlinePizzaStore
+
 DESCRIPTION
 
 Build an ASP.NET website comprising of the following three pages:
